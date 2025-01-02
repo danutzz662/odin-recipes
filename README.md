@@ -1,1 +1,1 @@
-# odin-recipes
+# first project going through the odin project course
